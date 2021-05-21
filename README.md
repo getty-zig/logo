@@ -1,8 +1,8 @@
 # Logos
 
-### White
+### Solid
 
-<img alt="Getty Logo White" src="getty-white.svg" width="400">
+<img alt="Getty Logo Solid" src="getty-solid.svg" width="400">
 
 ### Transparent
 
@@ -10,10 +10,18 @@
 
 # Favicons
 
-### 16x16
+### 16x16 (Solid)
 
-<img alt="Getty Favicon Small" src="getty-favicon-small.png">
+<img alt="Getty Favicon Solid Small" src="getty-favicon-solid-small.png">
 
-### 32x32
+### 16x16 (Transparent)
 
-<img alt="Getty Favicon Large" src="getty-favicon-large.png">
+<img alt="Getty Favicon Transparent Small" src="getty-favicon-transparent-small.png">
+
+### 32x32 (Solid)
+
+<img alt="Getty Favicon Solid Large" src="getty-favicon-solid-large.png">
+
+### 32x32 (Transparent)
+
+<img alt="Getty Favicon Transparent Large" src="getty-favicon-transparent-large.png">
