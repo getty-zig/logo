@@ -1,5 +1,3 @@
 # Getty Logo
 
-## Empty Logo
-
-<img alt="Getty Logo (Empty)" src="getty-empty.svg" width="300">
+<img alt="Getty Logo" src="getty.svg" width="300">
